@@ -42,7 +42,7 @@ const TodoList = ({ tasks, saveTask, deleteTodo, updateTask }) => {
     <div className="container">
       <main>
         <header>
-          <h1>Tasks to do</h1>
+          <h1>Todo App</h1>
           <form noValidate onSubmit={(e) => e.preventDefault()}>
             <input
               type="text"
