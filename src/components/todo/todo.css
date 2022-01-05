@@ -1,0 +1,38 @@
+.task {
+  background-color: var(--medium-black);
+
+  padding: 0 4px;
+  /* border: 1px solid gray; */
+  margin: 8px 0;
+  /* box-shadow: 2px 2px 6px black; */
+  display: flex;
+  align-items: center;
+}
+
+.task input {
+  margin-right: 12px;
+}
+
+.cross-text {
+  text-decoration: line-through;
+}
+
+.btn {
+  padding: 2px;
+  border: none;
+  font-size: 12px;
+}
+
+.btn-edit {
+  margin-left: auto;
+  align-self: center;
+  padding: 2px 6px;
+  background-color: var(--main-black);
+  color: white;
+}
+.btn-delete {
+  margin-left: 4px;
+  align-self: center;
+  background-color: tomato;
+  color: white;
+}
