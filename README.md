@@ -1,4 +1,4 @@
-![Alt text] (img/todo.gif)
+![Alt text](img/todo.gif)
 
 # Getting Started with Create React App
 
